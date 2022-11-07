@@ -1,0 +1,33 @@
+$whitecolor: #ffffff;
+$buttoncolor: #0c399d;
+
+.navbar {
+  background-color: #ffffff !important;
+  // position: sticky;
+  top: 0%;
+  width: 100%;
+}
+
+.signin {
+  color: black;
+  border: 1px solid #0c57b9;
+  border-radius: 12px;
+  width: 100px;
+  height: 50px;
+}
+.cfa {
+  background-color: #0c1825;
+  color: #ffffff;
+  border: 2px solid black;
+  margin-left: 5px;
+  border-radius: 12px;
+  width: 200px;
+  height: 50px;
+}
+.cfa:hover {
+  background-color: #0c57b9 !important;
+}
+.signin:hover {
+  border: 2px solid #0c57b9 !important;
+  color: #0c57b9;
+}

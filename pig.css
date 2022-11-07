@@ -1,0 +1,255 @@
+.navbar {
+  background-color: #ffffff !important;
+  top: 0%;
+  width: 100%;
+}
+
+.signin {
+  color: black;
+  border: 1px solid #0c57b9;
+  border-radius: 12px;
+  width: 100px;
+  height: 50px;
+}
+
+.cfa {
+  background-color: #0c1825;
+  color: #ffffff;
+  border: 2px solid black;
+  margin-left: 5px;
+  border-radius: 12px;
+  width: 200px;
+  height: 50px;
+}
+
+.cfa:hover {
+  background-color: #0c57b9 !important;
+}
+
+.signin:hover {
+  border: 2px solid #0c57b9 !important;
+  color: #0c57b9;
+}
+
+.text {
+  margin-top: 50px;
+  font-family: DM serif, sans-serif;
+  padding-right: 20px;
+  color: #0c1825;
+}
+
+.pics {
+  margin-top: 200px;
+  transform: translate(-12px);
+  position: absolute;
+  right: 200px;
+  z-index: -100px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.element {
+  width: 360px;
+  height: 600px;
+  border-radius: 10px;
+  border-top: 200px;
+  z-index: -90px;
+}
+
+.element {
+  position: relative;
+  left: 130px;
+  top: 160px;
+  bottom: -50px;
+}
+
+.rent {
+  position: relative;
+  z-index: 4;
+  transform: translate();
+}
+
+.invest {
+  position: relative;
+  z-index: 4;
+  transform: translate(300px, -50px);
+}
+
+.secure {
+  width: 50px;
+  height: 50px;
+  margin-left: 140px;
+  margin-bottom: 50px;
+}
+
+.words {
+  display: block;
+}
+
+.apple {
+  width: 30px;
+  height: 20px;
+}
+
+.applebutton {
+  border-radius: 10px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border: 1px solid grey;
+  margin-top: 20px;
+}
+
+.col-3 {
+  display: flex;
+}
+
+* {
+  overflow-x: hidden;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  -ms-overflow-style: none; /*IE and Edge */
+  scrollbar-width: none; /*Firefox */
+}
+
+.row {
+  display: flex;
+}
+
+.png {
+  width: 50px;
+  height: 46px;
+}
+
+.safe {
+  width: 50px;
+  height: 46px;
+}
+
+h3 {
+  font-family: DM serif, sans-serif;
+}
+
+p {
+  font-family: DM serif, sans-serif;
+}
+
+.ok {
+  border: 1px solid #f9f9f9;
+  background-color: #f9f9f9;
+  padding: 30px;
+  border-radius: 20px;
+  padding-right: 10px;
+  margin-right: 10px;
+}
+
+.low {
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
+
+.tag {
+  width: 50px;
+  height: 46px;
+  margin-top: 50px;
+}
+
+.flex {
+  height: 46px;
+  width: 50px;
+  margin-top: 50px;
+}
+
+.in {
+  width: 250px;
+  height: 500px;
+  margin-top: 50px;
+  margin-left: 300px;
+}
+
+.ft {
+  border: 1px solid #f9f9f9;
+  background-color: #f9f9f9;
+  padding: 30px;
+  border-radius: 20px;
+  padding-right: 10px;
+  margin-right: 10px;
+}
+
+.opp {
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+.blue {
+  background-color: #0d60d8;
+  padding: 50px;
+  padding-left: 100px;
+  margin-top: 50px;
+  color: #f9f9f9;
+}
+
+.applet {
+  margin-top: 20px;
+  width: 200px;
+  height: 50px;
+}
+
+.million {
+  margin-top: 100px;
+}
+
+.keni {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.size {
+  width: 150px;
+  height: 25px;
+  padding-right: 10px;
+  margin-top: 70px;
+}
+
+.sag {
+  margin-top: 50px;
+}
+
+.as {
+  margin-top: 50px;
+}
+
+.ndpraudit {
+  width: 100px;
+  margin-top: 20px;
+}
+
+.row {
+  margin-top: 100px;
+}
+
+.fti {
+  margin-left: 300px;
+}
+
+.location {
+  margin-left: 200px;
+  margin-top: 10px;
+}
+
+.end {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.year {
+  text-align: center;
+  color: #083e9e;
+}
+/*# sourceMappingURL=pig.css.map */
